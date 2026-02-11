@@ -1,0 +1,8 @@
+{
+  "name": "KaziTrust AI",
+  "description": "A legal assistance tool for domestic workers in Nairobi, Kenya, providing translations into Kiswahili and Sheng, citation of labor laws, and media-based contract analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
